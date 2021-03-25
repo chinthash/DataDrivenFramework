@@ -80,7 +80,6 @@ public class TestCreateUsers extends LoginAsAdmin {
 		Thread.sleep(1000);
 		click("contentmanager.user.createbutton");
 		Thread.sleep(3000);
-
 	}
 
 }
